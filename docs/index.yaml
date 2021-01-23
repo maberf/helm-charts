@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mongo:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2021-01-21T22:27:48.9795183-03:00"
+    description: mongo demo project helm chart test
+    digest: 433558d888ec9e3492d7af23d83b4a83371626773ff0442389988b4a6309568d
+    name: mongo
+    urls:
+    - https://maberf.github.io/helm-charts/mongo-3.tgz
+    version: "3"
+generated: "2021-01-21T22:27:48.9642285-03:00"
